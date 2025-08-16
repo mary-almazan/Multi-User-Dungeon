@@ -10,9 +10,7 @@ A text-based multiplayer online role-playing game demonstrating software design 
 * Isaac Bohn
 
 **Prerequisites**
-* [Add your language/runtime - e.g., Java 21, Python 3.8+]
-* [Database system - e.g., MySQL, PostgreSQL]
-* [Any other dependencies]
+* Java 21, Python 3.8+]
 
 **How to run it**
 1. Clone the repository and go to the root directory.
